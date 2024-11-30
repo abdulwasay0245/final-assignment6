@@ -103,7 +103,7 @@ const Footer = () => {
             alt='socialLink'
             width={24}
             height={24}
-            src="/social/Linkedin.png">
+            src="/social/LinkedIn.png">
 
           </Image>
         </div>
