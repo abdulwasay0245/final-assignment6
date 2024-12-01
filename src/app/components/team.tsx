@@ -61,7 +61,7 @@ const Team = () => {
                 alt='social'
                 width={18}
                 height={18}
-                src="/team/linkedin.png"></Image>
+                src="/team/linkedIn.png"></Image>
               <Image
                 alt='social'
                 width={18}
